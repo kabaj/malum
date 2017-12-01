@@ -4,6 +4,8 @@
  *
  * If the user has selected a static page for their homepage, this is what will
  * appear.
+ *
+ * Test github
  */
 
 get_header(); ?>
